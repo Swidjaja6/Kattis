@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class GraphShort {
-	private final static int INFINITY = 10000000; //Haha funny number
+	private final static int INFINITY = 6999999; //Haha funny number
 	public static void main(String[] args) {
 		FastReader f = new FastReader();
 		while(true) {
