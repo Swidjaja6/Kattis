@@ -1,0 +1,3 @@
+echo enter C++ file w/o cpp extension
+read f
+sudo g++ -o $f $f.cpp
